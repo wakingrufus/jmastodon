@@ -1,5 +1,5 @@
 # jmastodon
-Java client library for Mastodon
+Java client library for Mastodon. This project is abandoned. Use https://github.com/sys1yagi/mastodon4j instead.
 
 ## Running Integration Test
 1) change the server variable in the integration test to point to an instance on which you own an account
